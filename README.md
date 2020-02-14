@@ -1,5 +1,5 @@
-# cmsi185-projects-sec02-team1
-Name: Justin Yee, Mark, Aziz
+# SpaceInvadersGame
+Name: Justin Yee
 Date: Nov 30
 
 Instructions to Running Game:
